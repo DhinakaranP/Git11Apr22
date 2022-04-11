@@ -31,6 +31,10 @@ public class Gitpush {
 		System.out.println(mp);
 		
 		}
+	private void mul() {
+		System.out.println("Aravind3");
+
+	}
 	private void sub() {
 		System.out.println("Aravind");
 
