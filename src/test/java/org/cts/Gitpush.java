@@ -4,7 +4,11 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Gitpush {
+	private void mul() {
+		System.out.println("Aravind4");
+	}
 	public static void main(String[] args) {
+	
 		String s="welcome to java java class to class welcome";
 		
 		String[] sp = s.split(" ");
@@ -25,10 +29,7 @@ public class Gitpush {
 			}
 		System.out.println(mp);
 		
-		}
-	private void mul() {
-		System.out.println("Aravind3");
-
+		
 	}
 	private void sub() {
 		System.out.println("Aravind");
