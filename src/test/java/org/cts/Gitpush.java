@@ -4,6 +4,11 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 public class Gitpush {
+	
+	private void add() {
+		System.out.println("Aravind2");
+
+	}
 	public static void main(String[] args) {
 		String s="welcome to java java class to class welcome";
 		
